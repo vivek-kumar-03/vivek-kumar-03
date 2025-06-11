@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing MCA from Parul University.
-- 💻 I’m currently working as **[Your Position or Project]**
-- 🌱 Currently learning **DSA, React, Node.js, Linux, Networking**
-- 💬 Ask me about **Web Development, React, JavaScript, C++, Python (Fundamentals)**
+
+- 🌱 Currently learning **DSA, React, Node.js, ,Reactjs **
+- 💬 Ask me about **Web Development,java ,javaScript, (Fundamentals)**
 - 📫 Reach me at: **vk0730267@gmail.com**
 - ⚡ Fun fact: *I think I'm a NightCoder 🌙*
 
@@ -27,9 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 </p>
 
 ---
