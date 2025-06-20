@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently pursuing MCA from Parul University.
 
-- 🌱 Currently learning **DSA, React, Node.js, ,Reactjs **
+- 🌱 Currently learning **DSA, React, Node.js,
 - 💬 Ask me about **Web Development,java ,javaScript, (Fundamentals)**
 - 📫 Reach me at: **vk0730267@gmail.com**
 - ⚡ Fun fact: *I think I'm a NightCoder 🌙*
