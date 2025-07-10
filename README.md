@@ -14,9 +14,9 @@
 - 🧠 I have **balanced knowledge in Frontend (50%) and Backend (50%)** – aiming to become a complete Full Stack Developer.
 - 💡 Gaining experience through **real-world projects**, freelance collaboration, and continuous learning.
 - 💬 Ask me about: **Web Development, Java, JavaScript, MongoDB, Node.js, and problem-solving.**
-- 📫 Contact me at: **vk0730267@gmail.com**
+ 
+- 📫 Reach me at: **vk0730267@gmail.com**
 - ⚡ Fun fact: *I’m a NightCoder 🌙 who loves solving bugs more than watching series!*
-
 
 ---
 
@@ -30,9 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
 </p>
 
 ---
@@ -49,9 +49,15 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vivek-singh-78775723b/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/></a>
-  <a href="https://github.com/vivek-kumar-03" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/></a>
-  <a href="mailto:vk0730267@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/vivek-singh-78775723b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vivek-kumar-03" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
+  </a>
+  <a href="mailto:vk0730267@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" alt="Gmail"/>
+  </a>
 </p>
 
 ---
